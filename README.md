@@ -2,7 +2,7 @@
 
 ### - 👀 I’m interested in Unleashing Insight From Chaos!!
 ### - 🌱 Currently Exploring Data Engineering and Data Science
-### - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/rahul-yadav-6a29401a9/) | [Email.com](reyyadav941@gmail.com) | [Portfolio](https://codebasics.io/portfolio/Rahul-Raju-Yadav)
+### - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/rahul-yadav-6a29401a9/) | [Email.com](reyyadav941@gmail.com) | [Portfolio](https://codebasics.io/portfolio/Rahul-Raju-Yadav) | [Novypro.com](https://www.novypro.com/edit_projects/rahul-raju-yadav)
 
 ### - ⚡ Fun fact: ...I m a Mechanical Engineer But have keen interest in Data Fields, I realized that while machines may have a lot of gears, data engineering allows me to work with even more data points! So, I figured, why not switch from tinkering with physical gears to wrangling digital ones? It's a whole new world of gears, just with a lot less grease!
 ### -IBM Data Science Professional Certificate (10-Course Series).[link](https://coursera.org/share/cee78926256c886de47baec90196c6d1)
