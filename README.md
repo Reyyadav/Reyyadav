@@ -6,7 +6,7 @@
 
 ### - ⚡ Fun fact: ...I m a Mechanical Engineer But have keen interest in Data Fields, I realized that while machines may have a lot of gears, data engineering allows me to work with even more data points! So, I figured, why not switch from tinkering with physical gears to wrangling digital ones? It's a whole new world of gears, just with a lot less grease!
 
-![microsoft power bi pl300](https://github.com/Reyyadav/Reyyadav/assets/153619494/d6d8a055-7770-45c1-a754-2df7c02da862)
+![microsoft power bi pl300](https://github.com/Reyyadav/Reyyadav/assets/153619494/d6d8a055-7770-45c1-a754-2df7c02da862 = 250*250)
 
 
 ### -IBM Data Science Professional Certificate (10-Course Series).[link](https://coursera.org/share/cee78926256c886de47baec90196c6d1)
