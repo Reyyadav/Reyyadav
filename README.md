@@ -8,7 +8,7 @@
 
 
 ### -Microsoft Certified: Power Bi Data Analyst
-<img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/d6d8a055-7770-45c1-a754-2df7c02da862" width="350" height="350">
+<img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/d6d8a055-7770-45c1-a754-2df7c02da862" width="350" height="350"> 
 
 
 
