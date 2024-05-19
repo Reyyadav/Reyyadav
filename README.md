@@ -6,8 +6,19 @@
 
 ### - ⚡ Fun fact: ...I m a Mechanical Engineer But have keen interest in Data Fields, I realized that while machines may have a lot of gears, data engineering allows me to work with even more data points! So, I figured, why not switch from tinkering with physical gears to wrangling digital ones? It's a whole new world of gears, just with a lot less grease!
 
+### - Furthermore, I have additional matters to discuss.
+### Technical Skills:
+#### - Programming Languages: Python, R, SQL, Scala
+#### - Databases: MySQL, PostgreSQL, Microsoft SQL Server, NoSQL (MongoDB)
+#### - Data Visualization: Tableau, Microsoft Power Bi, Matplotlib, Seaborn, Aws Quick sight, Advanced Excel.
+#### - Data Analysis: Cleaning, Transformation, Statistical Analysis, Predictive Modelling, SWOT Analysis.
+### Soft Skills: 
+#### - Stakeholder Management, Data Story Telling, Business Acumen, Project Planning, Risk Management, Negotiation.
+#### - Other Tools: Microsoft Office, JIRA, Microsoft Visio, GitHub, Linux
 
-### -Microsoft Certified: Power Bi Data Analyst
+
+
+### -Microsoft Certified: Power Bi Data Analyst(Cleared PL-300 Examination with 838 scores)
 <img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/d6d8a055-7770-45c1-a754-2df7c02da862" width="350" height="350"> 
 
 
