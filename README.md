@@ -1,3 +1,4 @@
+
 ### ***- 👋 Hi, I’m Rahul a Microsoft Certified Power Bi Data Analyst***
 
 ### - 👀 I’m interested in Unleashing Insight From Chaos!!
@@ -18,17 +19,21 @@
 
 
 
-### -Microsoft Certified: Power Bi Data Analyst(Cleared PL-300 Examination with 838 scores)
-<img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/d6d8a055-7770-45c1-a754-2df7c02da862" width="350" height="350"> 
+### -Microsoft Certified: Power Bi Data Analyst
+(Cleared PL-300 Examination with 838 scores)
+
+
+
+<img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/d6d8a055-7770-45c1-a754-2df7c02da862" width="150" height="150"> 
 
 
 
 ### -IBM Data Science Professional Certificate (10-Course Series).[link](https://coursera.org/share/cee78926256c886de47baec90196c6d1)
-<img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/0781a94f-baae-4a60-b392-65dc32a6d01b" width="350" height="350">
+<img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/0781a94f-baae-4a60-b392-65dc32a6d01b" width="120" height="120">
 
 
 ### -Macquarie University Advanced Excel specialization Certificate.[link](https://coursera.org/share/a0050f53a1f05a5364c3fd775418c312)
-<img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/22fa23a7-9ad2-4557-ae69-a079e33bb424" width="350" height="350">
+<img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/22fa23a7-9ad2-4557-ae69-a079e33bb424" width="120" height="120">
 
 
 <!---
