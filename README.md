@@ -13,7 +13,7 @@
 
 ### - ⚡ Fun fact...I m a Mechanical Engineer 💁‍♂️ But have keen interest in Data Fields 👨‍💻, I realized that while machines may have a lot of gears, data engineering allows me to work with even more data points! So, I figured, why not switch from tinkering with physical gears to wrangling digital ones? It's a whole new world of gears, just with a lot less grease!
 
-<h3 align="left">Connect with me:😎👋 </h3>
+<h3 align="left">Connect with me: 😎👋 </h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-yadav-6a29401a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-yadav-6a29401a9" height="30" width="40" /></a>
 <a href="https://kaggle.com/rahulrajuyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rahulrajuyadav" height="30" width="40" /></a>
