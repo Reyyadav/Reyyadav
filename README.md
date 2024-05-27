@@ -1,10 +1,9 @@
 # <h1 align="center">Hi 👋, I'm Rahul Raju Yadav</h1>
-# <h2 align="center"> A Microsoft Certified Power BI Data Analyst </h2>
-
+# <h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cambria&weight=500&size=22&duration=5102&pause=1000&random=false&width=435&lines=Microsoft+Certified+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3A+Power+Bi+Data+Analyst)](https://git.io/typing-svg) </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reyyadav&label=Profile%20views&color=0e75b6&style=flat" alt="reyyadav" /> </p>
 
-### - 🌱 I’m currently learning **Business Analytics**
+### - 🌱 I’m currently learning **Business Analytics and Data Engineering **
 
 ### - 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Rahul-Raju-Yadav](https://codebasics.io/portfolio/Rahul-Raju-Yadav)
 
@@ -12,9 +11,9 @@
 
 ### - 📫 How to reach me **RahulRyadav941@gmail.com**
 
-### - ⚡ Fun fact **⚡ Fun fact: ...I m a Mechanical Engineer But have keen interest in Data Fields, I realized that while machines may have a lot of gears, data engineering allows me to work with even more data points! So, I figured, why not switch from tinkering with physical gears to wrangling digital ones? It's a whole new world of gears, just with a lot less grease!**
+### - ⚡ Fun fact...I m a Mechanical Engineer 💁‍♂️ But have keen interest in Data Fields 👨‍💻, I realized that while machines may have a lot of gears, data engineering allows me to work with even more data points! So, I figured, why not switch from tinkering with physical gears to wrangling digital ones? It's a whole new world of gears, just with a lot less grease!
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:😎👋 </h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-yadav-6a29401a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-yadav-6a29401a9" height="30" width="40" /></a>
 <a href="https://kaggle.com/rahulrajuyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rahulrajuyadav" height="30" width="40" /></a>
@@ -27,7 +26,9 @@
 
 
 ### Certifications:
-<img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/50714c7a-3215-422e-956e-ef5fa166dfe6" height="100" width="100">  <img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/0553da08-806d-4f88-8250-07da4fb66e31" height="100" width="100"> <img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/dedf25bc-c184-4bde-b4d8-28d359efdb0b" height="100" width="100">  
+
+<p align="center"> <img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/50714c7a-3215-422e-956e-ef5fa166dfe6" height="100" width="100">  <img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/0553da08-806d-4f88-8250-07da4fb66e31" height="100" width="100"> <img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/dedf25bc-c184-4bde-b4d8-28d359efdb0b" height="100" width="100">  <img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/c46f1f64-59c8-4702-99fc-308081d8fc47" height="100" width="100"> </p>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reyyadav&show_icons=true&locale=en" alt="reyyadav" /></p>
