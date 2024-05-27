@@ -32,6 +32,7 @@
 #### Technical Skills:
 
 - Programming Languages: Python, R, SQL, Scala
+- Cloud Tech: Amazon Web Service, Microsoft Azure
 - Databases: MySQL, PostgreSQL, Microsoft SQL Server, NoSQL (MongoDB)
 - Data Visualization: Tableau, Microsoft Power BI, Matplotlib, Seaborn, AWS QuickSight, Advanced Excel
 - Data Analysis: Cleaning, Transformation, Statistical Analysis, Predictive Modelling, SWOT Analysis
