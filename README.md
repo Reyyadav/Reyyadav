@@ -1,5 +1,5 @@
 
-### ***- 👋 Hi, I’m Rahul a Microsoft Certified Power Bi Data Analyst***
+### ***- 👋 Hi, I’m Rahul Yadav a Microsoft Certified Power Bi Data Analyst***
 
 ### - 👀 I’m interested in Unleashing Insight From Chaos!!
 ### - 🌱 Currently Exploring Data Engineering and Data Science
