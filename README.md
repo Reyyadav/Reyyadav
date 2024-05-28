@@ -8,6 +8,8 @@
 
 ### - 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Rahul-Raju-Yadav](https://codebasics.io/portfolio/Rahul-Raju-Yadav)
 
+### - ⭐ HACKERRANK SQL 5 Star Gold Badge.
+
 ### - 💬 Ask me about **Data Analytics, Business Analytics, Data Science, Data Engineering**
 
 ### - 📫 How to reach me **RahulRyadav941@gmail.com**
